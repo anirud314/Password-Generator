@@ -3,6 +3,12 @@ Create an application that generates a random password based on user-selected cr
 
 If you are unfamiliar with special characters, take a look at [some examples](https://www.owasp.org/index.php/Password_special_characters).
 
+## Links
+I published the page at: https://anirud314.github.io/Password-Generator/
+But as of 7:06pm on April 11th for some weird reason it is not working, I tried looking up troubleshooting stuff on the internet but lots of articles said either to wait until some point or that it was fixed before people could pinpoint what went wrong.
+A solution I found was to put index.html at the end of the url so to test I have been doing this.
+https://anirud314.github.io/Password-Generator/index.html
+
 ## Write Up and notes
 ### Basic Summary of the project
 This project is about utilizing what we learned from module 3 in order to work on the behavior of an application, in this instance we are looking at the behavior of a password generator. This assignment gives us a user story and a acceptance criteria that boils down to building a random password generator that takes a user input of the size of the password based on some parameters and if the user wants or doesn't want to utilize select characters for the password. 
