@@ -3,11 +3,13 @@ Create an application that generates a random password based on user-selected cr
 
 If you are unfamiliar with special characters, take a look at [some examples](https://www.owasp.org/index.php/Password_special_characters).
 
-## Links
+## Links (https://anirud314.github.io/Password-Generator/) if that doesn't work (https://anirud314.github.io/Password-Generator/index.html)
 I published the page at: https://anirud314.github.io/Password-Generator/
 But as of 7:06pm on April 11th for some weird reason it is not working, I tried looking up troubleshooting stuff on the internet but lots of articles said either to wait until some point or that it was fixed before people could pinpoint what went wrong.
 A solution I found was to put index.html at the end of the url so to test I have been doing this.
 https://anirud314.github.io/Password-Generator/index.html
+
+----Update As of 7:11pm both links work on my computer
 
 ## Write Up and notes
 ### Basic Summary of the project
